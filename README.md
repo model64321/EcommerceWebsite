@@ -10,7 +10,8 @@
 - Code Editor.
 
 ### Setup
-				```
+
+```
 1 Start the Apache and MySQL modules using the XAMPP controller.
 2 Open the phpMyAdmin and create a database "lifestylestore". 
 3 Import the lifestylestore.sql file present in the zip folder.
